@@ -1,4 +1,4 @@
-![Tauridoro Logo](/static/tauridoro-white.png)
+<img src="/Dou2ble/Tauridoro/raw/main/static/tauridoro-white.png" alt="Tauridoro Logo" width="256">
 
 # Tauridoro
 
