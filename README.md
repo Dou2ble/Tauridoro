@@ -1,4 +1,4 @@
-<img src="/Dou2ble/Tauridoro/raw/main/static/tauridoro-white.png" alt="Tauridoro Logo" width="256">
+<img src="https://github.com/Dou2ble/Tauridoro/blob/main/static/tauridoro-white.png?raw=true" alt="Tauridoro Logo" width="256">
 
 # Tauridoro
 
