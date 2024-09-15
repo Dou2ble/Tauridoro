@@ -1,0 +1,17 @@
+ladda inställningar från toml filen
+polisha loggan (det finns artifakter från mitt dåliga pinta jobb)
+lägg till readme
+lägg ut på github
+lägg till ikoner för knappar
+gör input type=number bättre så att det inte går att välja felaktiga values
+ändra bakgrundsfärg i settings
+kunna välja bilder som bakgrund i settings
+toggle för att stänga av notes
+toggle för att stänga av medelandet
+support för att byta vilket medelande som visas
+lägg till databas för att spara stats
+support för att byta till custom fonts
+ända window decorations
+enable/disable tabbar
+ny logga
+leaderboard
