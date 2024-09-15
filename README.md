@@ -1,4 +1,4 @@
-![Tauridoro Logo](/static/tauridoro-white.png "Tauridoro" | width=128)
+![Tauridoro Logo](/static/tauridoro-white.png | width=128)
 
 # Tauridoro
 
