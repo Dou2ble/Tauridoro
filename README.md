@@ -8,7 +8,8 @@ A FOSS pomodoro timer app inspired by [Pomofocus](https://pomofocus.io).
 
 ### Setup
 
-Make sure that you have set up your (machine in order to compile tauri applications)[https://tauri.app/v1/guides/getting-started/prerequisites/].
+Make sure that you have set up your machine in order to compile tauri applications.
+https://tauri.app/v1/guides/getting-started/prerequisites/
 
 ### Build
 
