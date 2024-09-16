@@ -1,7 +1,8 @@
-ladda inställningar från toml filen
-polisha loggan (det finns artifakter från mitt dåliga pinta jobb)
-lägg till readme
-lägg ut på github
+* ladda inställningar från toml filen
+* polisha loggan (det finns artifakter från mitt dåliga pinta jobb)
+* lägg till readme
+* lägg ut på github
+lägg till ringtoner
 lägg till ikoner för knappar
 gör input type=number bättre så att det inte går att välja felaktiga values
 ändra bakgrundsfärg i settings

@@ -1,6 +1,6 @@
 [package]
 name = "tauridoro"
-version = "0.1.0"
+version = "1.0.0"
 description = "A pomodoro timer app"
 authors = ["Otto Roming"]
 edition = "2021"

@@ -11,7 +11,15 @@ A FOSS pomodoro timer app inspired by [Pomofocus](https://pomofocus.io).
 Make sure that you have set up your machine in order to compile tauri applications.
 https://tauri.app/v1/guides/getting-started/prerequisites/
 
+This project uses pnpm as it's package manager.
+https://pnpm.io/installation
+
 ### Build
+
+Install dependencies
+```bash
+pnpm i
+```
 
 Run the following command to build the project
 
