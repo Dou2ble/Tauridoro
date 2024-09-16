@@ -1,0 +1,12 @@
+pkgname=tauridoro
+pkgver=1.0.0
+pkgrel=1
+pkgdesc="A FOSS pomodoro timer app inspired by Pomofocus."
+arch=('x86_64' 'aarch64')
+url="https://github.com/<user>/<project>"
+license=('mit')
+depends=('cairo' 'desktop-file-utils' 'gdk-pixbuf2' 'glib2' 'gtk3' 'hicolor-icon-theme' 'libsoup' 'pango' 'webkit2gtk')
+options=('!strip' '!emptydirs')
+install=${pkgname}.install
+source_x86_64=("https://github.com/<user>/<project>/releases/download/v$pkgver/appname_"$pkgver"_amd64.deb")
+source_aarch64=("https://github.com/<user>/<project>/releases/download/v$pkgver/appname_"$pkgver"_arm64.deb")

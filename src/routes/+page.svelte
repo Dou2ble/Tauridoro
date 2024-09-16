@@ -9,16 +9,9 @@
   import Pomodoro from "$lib/Pomodoro.svelte";
   import { Mode } from "$lib/Mode";
   import type { Settings } from "$lib/settings";
+  import { defaultSettings } from "$lib/settings";
   import Notes from "$lib/Notes.svelte";
 
-  let defaultSettings: Settings = {
-    longBreakInterval: 4,
-    modeLengths: {
-      [Mode.Pomodoro]: 25,
-      [Mode.ShortBreak]: 5,
-      [Mode.LongBreak]: 15,
-    },
-  };
   let settings: Settings = defaultSettings;
 
   async function loadSettings() {

@@ -3,10 +3,11 @@
   import "@fontsource/fredoka/600.css";
   import "@fontsource/shippori-antique-b1/400.css";
   import type { Settings } from "./settings";
+  import { defaultSettings } from "$lib/settings";
 
-  export let settings: Settings;
+  export let settings: Settings = defaultSettings;
   let paused = true;
-  let clock = 60 * settings.modeLengths[Mode.Pomodoro];
+  let clock: number;
 
   export let session = 1;
   export let activeMode: Mode = Mode.Pomodoro;
@@ -47,6 +48,7 @@
 
   $: {
     clock = 60 * settings.modeLengths[activeMode];
+    // console.log(settings);
   }
 
   function nextMode() {

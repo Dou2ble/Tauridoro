@@ -1,6 +1,6 @@
 <img src="https://github.com/Dou2ble/Tauridoro/blob/main/static/tauridoro-white.png?raw=true" alt="Tauridoro Logo" width="256">
 
-# Tauridoro v1.0.0
+# Tauridoro v1.0.1
 
 A FOSS pomodoro timer app inspired by [Pomofocus](https://pomofocus.io).
 
